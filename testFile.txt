@@ -1,0 +1,5 @@
+aaaaa
+this is a line that is not of the normal format for this file I want to know if UPPER case words are treated the same as lower CASE
+AAAAA
+bbbbb
+BBBBB
